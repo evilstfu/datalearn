@@ -1,3 +1,3 @@
-# Домашнее задание для модуля 1.
+# HOMEWORK for module 1.
 
 ## Labs
